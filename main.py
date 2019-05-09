@@ -1,1 +1,1 @@
-print("Hello to the other world!")
+print(2 ** 5)
